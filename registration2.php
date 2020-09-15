@@ -10,12 +10,12 @@
   <section class="parent">
   	<div></div>
   	<div class="main">
-    <p class="sign" align="center">Sign Up!</p>
-    <p align="center"> <a href="http://localhost:8080/travelx/registration2.php">You are a travel agency? CLick here to register</a></p>
+    <p class="sign" align="center">Sign Up an Agency!</p>
+    
     <form class="form1">
     	<div align="center">
-      Name <input class="un" type="text" align="center" placeholder="name"><br>
-      Emial <input class="un" type="text" align="center" placeholder="email"><br>
+      Agency Name <input class="un" type="text" align="center" placeholder="name"><br>
+      Official Emial <input class="un" type="text" align="center" placeholder="email"><br>
       Phone <input class="un" type="text" align="center" placeholder="phone"><br>
       Adress <input class="un" type="text" align="center" placeholder="name"><br><br>
 

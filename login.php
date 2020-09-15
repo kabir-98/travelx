@@ -7,7 +7,9 @@
 </head>
 
 <body>
-  <div class="main">
+  <section class="parent">
+  	<div></div>
+  	<div class="main">
     <p class="sign" align="center">Sign in</p>
     <form class="form1">
       <input class="un " type="text" align="center" placeholder="Username">
@@ -17,6 +19,7 @@
             
                 
     </div>
+  </section>
      
 </body>
 
