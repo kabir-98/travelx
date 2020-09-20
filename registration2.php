@@ -17,7 +17,7 @@
       Agency Name <input class="un" type="text" align="center" placeholder="name"><br>
       Official Emial <input class="un" type="text" align="center" placeholder="email"><br>
       Phone <input class="un" type="text" align="center" placeholder="phone"><br>
-      Adress <input class="un" type="text" align="center" placeholder="name"><br><br>
+      Address <input class="un" type="text" align="center" placeholder="address"><br><br>
 
       Password<input class="pass" type="password" align="center" placeholder="Password"><br>
       Confirm Password <input class="pass" type="password" align="center" placeholder="Confirm Password">

@@ -15,7 +15,7 @@
       <input class="un " type="text" align="center" placeholder="Username">
       <input class="pass" type="password" align="center" placeholder="Password">
       <a class="submit" align="center">Sign in</a>
-      <p class="forgot" align="center"><a href="#">Forgot Password?</p>
+      <p class="forgot" align="center"><a href="http://localhost:8080/travelx/registration.php">Haven't Signed Up yet? Click here</p>
             
                 
     </div>
